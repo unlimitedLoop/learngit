@@ -1,2 +1,2 @@
-This is a readme.
-git is a free software and it is good.
+Git is version control system.
+Git is free software.
